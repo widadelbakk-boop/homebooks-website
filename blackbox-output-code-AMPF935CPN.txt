@@ -1,6 +1,5 @@
-📂 اجذب هذه الملفات من مجلدك:
-✅ index.html
-✅ books.html
-✅ order.html
-✅ style.css
-✅ script.js
+ index.html
+ books.html
+ order.html
+ style.css
+ script.js
